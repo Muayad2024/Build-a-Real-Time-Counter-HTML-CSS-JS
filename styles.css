@@ -1,0 +1,33 @@
+body {
+  background-color: pink;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: yellow;
+  width: 100vw;
+}
+
+.textInput {
+  display: flex;
+  justify-content: center;
+  width: 30vw;
+  height: 100%;
+}
+
+.txtInputWrapper {
+  display: flex;
+  justify-content: center;
+
+}
+
+.parWrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.redColor {
+  color: red;
+}

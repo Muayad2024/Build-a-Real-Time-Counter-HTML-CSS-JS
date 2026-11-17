@@ -1,0 +1,1 @@
+This file is a type counter it is count the words depend on the input length, and print this value to a paragraph bellow the textarea element
